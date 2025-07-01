@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChetanChauhan07
-- 👀 I’m interested in Front end Designing
-- 🌱 I’m currently learning Full Stack
+
 
 
 <!---
